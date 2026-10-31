@@ -79,10 +79,27 @@ Curated long-form guides, engineering breakdowns, case studies, and virality pla
 
 ### Can I Ride Dance AI
 
-*Single-character hallway dance routine based on SIDEPIECE & 95 South.*
+*Single-character hallway dance routine: turns 1 static photo into a viral 10s TikTok hallway shuffle with built-in SIDEPIECE footwork.*
 
-- 🕺 [Can I Ride Dance AI Live Generation & Specifications](https://vidtrend.app/trends/can-i-ride-dance-ai)
-- 📌 *More deep dives & workflow articles coming soon — submit yours via PR!*
+- 🕺 [**Can I Ride Dance AI Live Generator & Specifications**](https://vidtrend.app/trends/can-i-ride-dance-ai)
+- 🛠️ **DEV.to** (`Builder Workflow & QA`):  
+  [**Can I Ride Dance AI for Builders: One Photo, Built-In Hallway Reference, and a QA Checklist**](https://dev.to/vidtrend/can-i-ride-dance-ai-for-builders-one-photo-built-in-hallway-reference-and-a-qa-checklist-that-5ck)  
+  *Engineering walkthrough of single-photo neural rigging, hallway motion reference constraints, and production QA checklists.*
+- 📊 **Medium** (`Case Study & Shot Grammar`):  
+  [**Why the Can I Ride Hallway Dance Works on TikTok: Shot Grammar, SIDEPIECE Energy, and Soft CTAs**](https://medium.com/@ice45571/why-the-can-i-ride-hallway-dance-works-on-tiktok-shot-grammar-sidepiece-energy-and-soft-ctas-4c4d1bae9e27)  
+  *Creative analysis of shot grammar, pacing, visual retention mechanics, and why hallway dance videos hook FYP viewers.*
+- 🇯🇵 **note.com** (`日本語ガイド`):  
+  [**1枚の写真で作る「Can I Ride」AIダンス動画完全ガイド**](https://note.com/quick_loris6564/n/nb1080c7f54ac)  
+  *TikTokで大人気の廊下ダンスを1枚の写真から生成する方法。写真の選び方や音源後付けによるアルゴリズム最適化を徹底解説。*
+- 💰 **Substack** (`ROI & Production Economics`):  
+  [**Can I Ride Dance AI Without Burning Budget: Production Economics, 480p vs. 720p, and Credit Strategy**](https://vidtrend.substack.com/p/can-i-ride-dance-ai-without-burning)  
+  *Economic breakdown of short-form meme generation: credit allocation, testing in 480p standard vs. scaling in 720p HD, and creator ROI.*
+- 📖 **WordPress** (`Comprehensive Guide`):  
+  [**Can I Ride Dance AI (VidTrend): The Complete Guide to the 1-Photo Hallway Template**](https://vidtrend2.wordpress.com/2026/10/31/can-i-ride-dance-ai-vidtrend-the-complete-guide-to-the-1-photo-hallway-template/)  
+  *The end-to-end user manual covering dancer photo lighting requirements, motion retargeting rules, and watermark-free export.*
+- 🚀 **beehiiv** (`Growth Loops & Distribution`):  
+  [**Growth Loops for Can I Ride Dance AI: Batch Three Friends, A/B Two Post Windows, Feed the List**](https://ics-newsletter.beehiiv.com/p/growth-loops-for-can-i-ride-dance-ai-batch-three-friends-a-b-two-post-windows-feed-the-list)  
+  *Audience acquisition playbook: batching friend memes, A/B testing upload windows on TikTok & Reels, and driving profile conversions.*
 
 ---
 
