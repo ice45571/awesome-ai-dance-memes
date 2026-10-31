@@ -15,6 +15,7 @@ Powered by [VidTrend](https://vidtrend.app) — the 1-click viral short-form AI 
 
 - [🚀 Featured Templates & Live Demos](#-featured-templates--live-demos)
 - [📚 In-Depth Tutorials & Deep Dives](#-in-depth-tutorials--deep-dives)
+  - [Gangnam Style Dance AI](#gangnam-style-dance-ai)
   - [Tiny Desk Concert Dance AI](#tiny-desk-concert-dance-ai)
   - [Can I Ride Dance AI](#can-i-ride-dance-ai)
   - [TikTok Bad Times Dance AI](#tiktok-bad-times-dance-ai)
@@ -35,6 +36,7 @@ Test and run these viral AI dance templates directly in your browser:
 
 | Template | Input | Duration | Audio / Sound | Description | Live Demo |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Gangnam Style Dance AI** | 3 Photos (Trio / 3 Members) | 10s | PSY - *Gangnam Style (TikTok Remix)* | 3-person synchronized horse-riding dance meme in a Hogwarts castle courtyard setting. | [**Try Template ➔**](https://vidtrend.app/trends/gangnam-style-dance-ai) |
 | **Tiny Desk Dance AI** | 5 Photos (Full Band) | 15s | Charlie Wilson - *Outstanding* | Multi-person ensemble parody with dynamic 4-angle cuts (Lead, Singer, Sax, Backing Vocalists). | [**Try Template ➔**](https://vidtrend.app/trends/tiny-desk-dance-ai) |
 | **Can I Ride Dance AI** | 1 Photo | 10s | SIDEPIECE & 95 South - *Can I Ride* | Viral hallway shuffle and fluid footwork trend popularized by @minicaseoh6741. | [**Try Template ➔**](https://vidtrend.app/trends/can-i-ride-dance-ai) |
 | **TikTok Bad Times AI** | 1 Photo | 15s | Imael Angel - *Bad Times* (*Ça va barder!!*) | Viral expressive dance & facial lip-sync trend for pets and stylized characters. | [**Try Template ➔**](https://vidtrend.app/trends/tiktok-bad-times-imael-angel-ai-video) |
@@ -51,6 +53,29 @@ Test and run these viral AI dance templates directly in your browser:
 ## 📚 In-Depth Tutorials & Deep Dives
 
 Curated long-form guides, engineering breakdowns, case studies, and virality playbooks published across top platforms.
+
+### Gangnam Style Dance AI
+
+*3-person synchronized horse-riding dance meme: turns 3 distinct portraits into a cohesive Hogwarts courtyard trio parody with synced PSY audio.*
+
+- 🏇 [**Gangnam Style Dance AI Live Generator & Specifications**](https://vidtrend.app/trends/gangnam-style-dance-ai)
+- 🛠️ **DEV.to** (`Builder Workflow & QA`):  
+  [**Gangnam Style Dance AI for Builders: Three Slots, One Synced Export, and a Multi-Identity QA Checklist**](https://dev.to/vidtrend/gangnam-style-dance-ai-for-builders-three-slots-one-synced-export-and-a-multi-identity-qa-2b4j)  
+  *Engineering breakdown of 3-slot identity anchoring, Hogwarts courtyard background preservation, and frame-accurate horse dance synchronization.*
+- 📊 **Medium** (`Case Study & Casting Chemistry`):  
+  [**Why Gangnam Style Trio Memes Work in 2026: Hallway Horse Dance, Hogwarts Casting Chemistry, and Soft CTAs**](https://medium.com/@ice45571/why-gangnam-style-trio-memes-work-in-2026-hallway-horse-dance-hogwarts-casting-chemistry-and-069d095a84ee)  
+  *In-depth case study examining why 3-character parody chemistry drives viral share loops and comment engagement across TikTok & Reels.*
+- 🇯🇵 **note.com** (`日本語ガイド`):  
+  [**【作り方】写真3枚で江南スタイル3人組ダンスAI｜音源同梱・透かしなし（アジア向けガイド）**](https://note.com/quick_loris6564/n/nd974eecf4d35)  
+  *写真3枚をアップロードするだけで、ホグワーツ風の中庭でPSY「江南スタイル」の乗馬ダンスを踊るバイラル動画を生成する方法。音源の合わせ方とアジア圏向け拡散戦略を完全解説。*
+- 📖 **WordPress** (`Comprehensive Guide`):  
+  [**Gangnam Style Dance AI (VidTrend): The Complete Guide to the 3-Photo Trio Template**](https://vidtrend2.wordpress.com/2026/10/31/gangnam-style-dance-ai-vidtrend-the-complete-guide-to-the-3-photo-trio-template/)  
+  *Official long-form walkthrough detailing 3-role mapping (Center Lead, Left, Right), photo preparation tips, and credit optimization.*
+- 🚀 **beehiiv** (`Growth Loops & Virality`):  
+  [**Growth Loops for Gangnam Style Dance AI: Batch Three-Friend Trios, A/B Two Windows, Feed the List**](https://ics-newsletter.beehiiv.com/p/growth-loops-for-gangnam-style-dance-ai-batch-three-friend-trios-a-b-two-windows-feed-the-list)  
+  *Creator virality playbook: leveraging 3-person tag loops, batch-testing release windows, and converting short-form traffic into newsletter subscribers.*
+
+---
 
 ### Tiny Desk Concert Dance AI
 
@@ -170,7 +195,7 @@ To maximize your FYP (For You Page) reach on TikTok, Instagram Reels, and YouTub
 ## 🛠️ Quickstart Guide
 
 1. Head over to **[VidTrend Trends Catalog](https://vidtrend.app/trends)**.
-2. Pick a trending meme template (e.g., [Tiny Desk](https://vidtrend.app/trends/tiny-desk-dance-ai), [Can I Ride](https://vidtrend.app/trends/can-i-ride-dance-ai), or [Bad Times](https://vidtrend.app/trends/tiktok-bad-times-imael-angel-ai-video)).
+2. Pick a trending meme template (e.g., [Gangnam Style](https://vidtrend.app/trends/gangnam-style-dance-ai), [Tiny Desk](https://vidtrend.app/trends/tiny-desk-dance-ai), [Can I Ride](https://vidtrend.app/trends/can-i-ride-dance-ai), or [Bad Times](https://vidtrend.app/trends/tiktok-bad-times-imael-angel-ai-video)).
 3. Upload your photo(s).
 4. Select resolution (**480p Standard** or **720p HD**) and click **Generate**.
 5. Download your watermark-free video and post with the trending sound!
