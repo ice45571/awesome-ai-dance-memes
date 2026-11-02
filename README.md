@@ -5,14 +5,20 @@
 [![Live Demos](https://img.shields.io/badge/Live_Demos-VidTrend.app-00f0ff.svg)](https://vidtrend.app)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ice45571/awesome-ai-dance-memes/pulls)
 
-A curated list of viral TikTok AI dance memes, character generators, motion transfer workflows, prompt recipes, and production guides. Turn static photos of yourself, friends, pets, or characters into high-engagement viral video memes in minutes.
+A curated list of viral TikTok AI dance memes, multi-character generators, motion transfer workflows, prompt recipes, and production guides. Turn static photos of yourself, friends, pets, or characters into high-engagement viral video memes in minutes.
 
-Powered by [VidTrend](https://vidtrend.app) — the 1-click viral short-form AI video generation engine.
+Powered by [VidTrend](https://vidtrend.app) — the 1-click viral short-form AI video generation engine and creative studio.
 
 ---
 
 ## 📑 Table of Contents
 
+- [🖼️ Visual UI Tour & Feature Screenshots](#️-visual-ui-tour--feature-screenshots)
+  - [1. Universal AI Video Studio & Prompt Workbench](#1-universal-ai-video-studio--prompt-workbench)
+  - [2. Multi-Character Viral Trend Template Studio](#2-multi-character-viral-trend-template-studio)
+  - [3. Neural Engine 5.0 AI Photo Enhancer & Avatar Creator](#3-neural-engine-50-ai-photo-enhancer--avatar-creator)
+  - [4. Zero-Latency Client-Side Video Muter](#4-zero-latency-client-side-video-muter)
+- [✨ Core Capabilities & Platform Architecture](#-core-capabilities--platform-architecture)
 - [🚀 Featured Templates & Live Demos](#-featured-templates--live-demos)
 - [📚 In-Depth Tutorials & Deep Dives](#-in-depth-tutorials--deep-dives)
   - [Gangnam Style Dance AI](#gangnam-style-dance-ai)
@@ -24,9 +30,91 @@ Powered by [VidTrend](https://vidtrend.app) — the 1-click viral short-form AI 
   - [Head Bop Dance AI](#head-bop-dance-ai)
 - [⚡ Workflow Comparison: DIY Manual vs. VidTrend 1-Click AI](#-workflow-comparison-diy-manual-vs-vidtrend-1-click-ai)
 - [🎯 Short-Form Virality & TikTok Algorithm Playbook](#-short-form-virality--tiktok-algorithm-playbook)
+- [💰 Creator Rewards & Transparent Credit Economy](#-creator-rewards--transparent-credit-economy)
 - [🛠️ Quickstart Guide](#️-quickstart-guide)
 - [🤝 Contributing & Adding New Blogs](#-contributing--adding-new-blogs)
 - [📄 License](#-license)
+
+---
+
+## 🖼️ Visual UI Tour & Feature Screenshots
+
+Explore the four core creation surfaces powering the VidTrend viral AI video ecosystem:
+
+### 1. Universal AI Video Studio & Prompt Workbench
+
+*Generate custom AI dance and cinematic videos using descriptive text prompts or motion transfer from reference videos.*
+
+[![Universal AI Video Studio & Prompt Workbench](assets/screenshots/generator-workbench.png)](https://vidtrend.app)
+
+* **Dual Generative Modes:**
+  * **Text to Video:** Craft choreography, camera angles, lighting, and vibes from text prompts.
+  * **Reference to Video [HOT]:** Upload any reference dance/action video (MP4/MOV up to 50MB) + 1–10 photos to retarget complex choreography onto custom subjects.
+* **Granular Production Settings:**
+  * **Aspect Ratios:** `9:16` (TikTok/Reels/Shorts), `16:9` (YouTube/widescreen), `1:1` (feed square), and `21:9` (cinematic ultrawide).
+  * **Durations:** 5s, 10s, 15s, 20s, 25s, up to 30s.
+  * **Resolutions:** 720p HD and 1080p Ultra HD.
+* **Real-Time Studio Card:** Instant parameter verification, dynamic credit calculation, and automatic refund protection on generation failure.
+
+---
+
+### 2. Multi-Character Viral Trend Template Studio
+
+*Turn multi-person friend groups, colleagues, or fandom characters into synchronized viral memes with frame-accurate multi-angle cuts.*
+
+[![Multi-Character Trend Template Studio](assets/screenshots/multi-character-template.png)](https://vidtrend.app/trends/tiny-desk-dance-ai)
+
+* **Multi-Role Neural Rigging:** Dedicated photo upload slots for individual band or ensemble members (e.g. 5 distinct slots in [Tiny Desk](https://vidtrend.app/trends/tiny-desk-dance-ai), 3 slots in [Gangnam Style](https://vidtrend.app/trends/gangnam-style-dance-ai)).
+* **Synchronized Audio & Camera Cuts:** Includes licensed or trending background music, synchronized audio drops, and dynamic camera angle switching.
+* **Integrated Photo Prep Bridge:** One-click `✨ Blurry or no photo? Enhance or create with AI ➔` button bridges directly into the photo enhancer without manual file transfers.
+
+---
+
+### 3. Neural Engine 5.0 AI Photo Enhancer & Avatar Creator
+
+*Eliminate blurry inputs, motion artifacts, and face-melting before feeding images into video diffusion models.*
+
+[![Neural Engine 5.0 Photo Enhancer & Text-to-Picture Studio](assets/screenshots/ai-photo-enhancer.png)](https://vidtrend.app/tools/ai-photo-enhancer)
+
+* **Picture to HD (Unblur & Upscale):** One-click facial restoration and super-resolution up to **1K Standard** or **2K Ultra HD**, restoring crisp skin textures, eyes, and studio lighting while strictly locking facial identity.
+* **Text to Picture Avatar Studio:** Generate photorealistic dancers, anime avatars, or stylized characters from scratch with custom aspect ratios (`9:16`, `1:1`, `16:9`, `3:4`).
+* **Direct Video Generation Bridge:** Enhanced images apply directly into the video generator in 1 click (`photo-bridge.ts`).
+
+---
+
+### 4. Zero-Latency Client-Side Video Muter
+
+*100% private, browser-based WebAssembly (WASM) utility for stripping audio tracks from MP4, MOV, and WebM videos.*
+
+[![100% Client-Side WebAssembly Video Muter](assets/screenshots/mute-video-tool.png)](https://vidtrend.app/tools/mute-video)
+
+* **100% In-Browser & Private:** Processing runs entirely inside the client sandbox using WebAssembly — your private footage never touches external cloud servers.
+* **Lossless Container Stripping:** Strips the audio stream without re-encoding video frames, guaranteeing zero quality degradation or compression artifacts.
+* **TikTok Algorithm Optimization:** Enables posting clean silent MP4s so creators can attach official trending sounds directly inside TikTok or Instagram Reels to trigger algorithm recommendation loops.
+
+---
+
+## ✨ Core Capabilities & Platform Architecture
+
+```
+┌────────────────────────────────────────────────────────────────────────┐
+│                        VidTrend Platform Engine                        │
+├───────────────────────┬───────────────────────┬────────────────────────┤
+│  1-Click Trend Memes  │   Universal Studio    │     Image AI 5.0       │
+│  - Tiny Desk (5-slot) │  - Text-to-Video      │  - Face Restoration    │
+│  - Gangnam Style (3P) │  - Video-to-Video     │  - 1K/2K Super-Res     │
+│  - Can I Ride (1-pic) │  - 5s–30s Durations   │  - Text-to-Picture     │
+│  - Lip-sync & Bops    │  - 9:16 / 16:9 / 21:9 │  - Direct Video Bridge │
+├───────────────────────┴───────────────────────┴────────────────────────┤
+│           Client-Side Utilities: WASM Muter & Audio Tools              │
+│       Creator Rewards: Post on TikTok/Shorts for Free Credits          │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+1. **Preset Choreography Engine:** Curated TikTok dance trends updated weekly with pre-trained motion vectors, eliminating prompt trial-and-error.
+2. **Multi-Identity Face Preservation:** Proprietary facial landmark tracking retains >98% facial identity, hairstyle, and attire consistency across fast camera cuts.
+3. **No-Lock-In Credit Economy:** Transparent pay-as-you-go credit packs where purchased credits **never expire**.
+4. **Watermark-Free Export:** All generated videos export as clean, broadcast-ready MP4 files.
 
 ---
 
@@ -184,20 +272,36 @@ To maximize your FYP (For You Page) reach on TikTok, Instagram Reels, and YouTub
 
 1. **Attach Official Trending Audio In-App**:
    - VidTrend dance templates export as high-FPS, watermark-free silent MP4s (or include reference sound for preview).
-   - *Why?* Attaching the official trending sound inside TikTok or Instagram Reels directly triggers platform recommendation algorithms and protects your video from automated copyright muting.
+   - *Why?* Attaching the official trending sound inside TikTok or Instagram Reels directly triggers platform recommendation algorithms and protects your video from automated copyright muting. Use the [Free Mute Video Tool](https://vidtrend.app/tools/mute-video) if needed.
 2. **Tag Ensemble Members**:
-   - For multi-character templates like [Tiny Desk Dance AI](https://vidtrend.app/trends/tiny-desk-dance-ai), tag the 5 friends or influencers represented in the video. Each tag drives initial engagement, watch time, and comment loops.
+   - For multi-character templates like [Tiny Desk Dance AI](https://vidtrend.app/trends/tiny-desk-dance-ai) or [Gangnam Style](https://vidtrend.app/trends/gangnam-style-dance-ai), tag the friends or influencers represented in the video. Each tag drives initial engagement, watch time, and comment loops.
 3. **Use High-Contrast, Well-Lit Photos**:
-   - Single subjects facing the camera with clear facial features and upper body visibility achieve the highest choreography fidelity and expression transfer.
+   - Single subjects facing the camera with clear facial features achieve the highest choreography fidelity. If your input photo is blurry, run it through the [AI Photo Enhancer](https://vidtrend.app/tools/ai-photo-enhancer) first.
+
+---
+
+## 💰 Creator Rewards & Transparent Credit Economy
+
+### Earn Free Credits with Creator Rewards
+Post your generated VidTrend videos on **TikTok** or **YouTube Shorts** and tag `#vidtrend`:
+* Earn **up to 1,000 free credits** based on view milestones.
+* Submit your video link via the in-app Creator Rewards banner (`/pricing`) for instant verification.
+
+### Pay-As-You-Go Credits (Never Expire)
+No predatory auto-renewing subscriptions:
+* **Starter Pack:** 50 Credits ($4.99) — ideal for standard-definition testing.
+* **Pro Pack:** 100 Credits ($9.99) — full HD 720p creation.
+* **Studio Pack:** 200 Credits ($19.99) — 1080p Ultra HD creation.
+* **Bulk Creator Pack:** 400 Credits ($34.99) — high-volume priority queue rendering.
 
 ---
 
 ## 🛠️ Quickstart Guide
 
-1. Head over to **[VidTrend Trends Catalog](https://vidtrend.app/trends)**.
-2. Pick a trending meme template (e.g., [Gangnam Style](https://vidtrend.app/trends/gangnam-style-dance-ai), [Tiny Desk](https://vidtrend.app/trends/tiny-desk-dance-ai), [Can I Ride](https://vidtrend.app/trends/can-i-ride-dance-ai), or [Bad Times](https://vidtrend.app/trends/tiktok-bad-times-imael-angel-ai-video)).
-3. Upload your photo(s).
-4. Select resolution (**480p Standard** or **720p HD**) and click **Generate**.
+1. Head over to **[VidTrend Trends Catalog](https://vidtrend.app/trends)** or the **[Universal Studio Homepage](https://vidtrend.app)**.
+2. Pick a trending meme template (e.g., [Gangnam Style](https://vidtrend.app/trends/gangnam-style-dance-ai), [Tiny Desk](https://vidtrend.app/trends/tiny-desk-dance-ai), [Can I Ride](https://vidtrend.app/trends/can-i-ride-dance-ai), or [Bad Times](https://vidtrend.app/trends/tiktok-bad-times-imael-angel-ai-video)) or write a custom prompt.
+3. Upload your photo(s). *(Tip: If photos are blurry, click `Enhance with AI` to restore face details first!)*
+4. Select resolution (**720p HD** or **1080p Ultra HD**) and click **Generate**.
 5. Download your watermark-free video and post with the trending sound!
 
 ---
@@ -214,5 +318,5 @@ Have you written a blog post, tutorial, or case study using VidTrend templates? 
 
 ## 📄 License
 
-This repository is licensed under the [MIT License](LICENSE).
+This repository is licensed under the [MIT License](LICENSE).  
 All template references and viral meme rights belong to their respective creators and artists.
