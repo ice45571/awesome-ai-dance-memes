@@ -21,6 +21,7 @@ Powered by [VidTrend](https://vidtrend.app) — the 1-click viral short-form AI 
 - [✨ Core Capabilities & Platform Architecture](#-core-capabilities--platform-architecture)
 - [🚀 Featured Templates & Live Demos](#-featured-templates--live-demos)
 - [📚 In-Depth Tutorials & Deep Dives](#-in-depth-tutorials--deep-dives)
+  - [First Time Fancy Cafe AI (POV Cafe Meme)](#first-time-fancy-cafe-ai-pov-cafe-meme)
   - [Gangnam Style Dance AI](#gangnam-style-dance-ai)
   - [Tiny Desk Concert Dance AI](#tiny-desk-concert-dance-ai)
   - [Can I Ride Dance AI](#can-i-ride-dance-ai)
@@ -101,10 +102,11 @@ Explore the four core creation surfaces powering the VidTrend viral AI video eco
 │                        VidTrend Platform Engine                        │
 ├───────────────────────┬───────────────────────┬────────────────────────┤
 │  1-Click Trend Memes  │   Universal Studio    │     Image AI 5.0       │
-│  - Tiny Desk (5-slot) │  - Text-to-Video      │  - Face Restoration    │
-│  - Gangnam Style (3P) │  - Video-to-Video     │  - 1K/2K Super-Res     │
-│  - Can I Ride (1-pic) │  - 5s–30s Durations   │  - Text-to-Picture     │
-│  - Lip-sync & Bops    │  - 9:16 / 16:9 / 21:9 │  - Direct Video Bridge │
+│  - Fancy Cafe (2-slot)│  - Text-to-Video      │  - Face Restoration    │
+│  - Tiny Desk (5-slot) │  - Video-to-Video     │  - 1K/2K Super-Res     │
+│  - Gangnam Style (3P) │  - 5s–30s Durations   │  - Text-to-Picture     │
+│  - Can I Ride (1-pic) │  - 9:16 / 16:9 / 21:9 │  - Direct Video Bridge │
+│  - Lip-sync & Bops    │                       │                        │
 ├───────────────────────┴───────────────────────┴────────────────────────┤
 │           Client-Side Utilities: WASM Muter & Audio Tools              │
 │       Creator Rewards: Post on TikTok/Shorts for Free Credits          │
@@ -124,6 +126,7 @@ Test and run these viral AI dance templates directly in your browser:
 
 | Template | Input | Duration | Audio / Sound | Description | Live Demo |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **First Time Fancy Cafe AI** | 2 Photos (Awkward Man & Woman) | 21s | Original Cafe Ambiance & Audio | Viral "POV: Your first time in a fancy cafe" comedy meme with awkward seating reveal and reaction cuts. | [**Try Template ➔**](https://vidtrend.app/trends/first-time-fancy-cafe-ai) |
 | **Gangnam Style Dance AI** | 3 Photos (Trio / 3 Members) | 10s | PSY - *Gangnam Style (TikTok Remix)* | 3-person synchronized horse-riding dance meme in a Hogwarts castle courtyard setting. | [**Try Template ➔**](https://vidtrend.app/trends/gangnam-style-dance-ai) |
 | **Tiny Desk Dance AI** | 5 Photos (Full Band) | 15s | Charlie Wilson - *Outstanding* | Multi-person ensemble parody with dynamic 4-angle cuts (Lead, Singer, Sax, Backing Vocalists). | [**Try Template ➔**](https://vidtrend.app/trends/tiny-desk-dance-ai) |
 | **Can I Ride Dance AI** | 1 Photo | 10s | SIDEPIECE & 95 South - *Can I Ride* | Viral hallway shuffle and fluid footwork trend popularized by @minicaseoh6741. | [**Try Template ➔**](https://vidtrend.app/trends/can-i-ride-dance-ai) |
@@ -141,6 +144,25 @@ Test and run these viral AI dance templates directly in your browser:
 ## 📚 In-Depth Tutorials & Deep Dives
 
 Curated long-form guides, engineering breakdowns, case studies, and virality playbooks published across top platforms.
+
+### First Time Fancy Cafe AI (POV Cafe Meme)
+
+*2-character viral comedy parody: turns 2 portrait photos into the 21-second viral sensation "POV: Your first time in a fancy cafe" with original audio and seating reveal.*
+
+- ☕ [**First Time Fancy Cafe AI Live Generator & Specifications**](https://vidtrend.app/trends/first-time-fancy-cafe-ai)
+- 🎭 **Two-Character Neural Slot Mapping:**
+  - **Slot 1 (The Man on Left):** Awkwardly sitting sideways on the small concrete cafe ledge while sipping from a paper cup.
+  - **Slot 2 (The Woman on Right):** Gracefully enters the frame, walks past him, and sits properly behind the round metal cafe table.
+- 🎬 **Scene Preservation & Cinematic Timing:**
+  - Powered by **Kling v4 Omni Reference Edit**.
+  - Strict 21-second narrative arc: initial awkward sip, woman's entrance, man's realization glance, comical readjustment to face forward, and dual reaction finish.
+  - Zero character blending: individual facial identities, hairstyles, clothing, and accessories strictly maintained throughout camera movements.
+- 🔊 **Authentic Audio Continuity:**
+  - Preserves the original cafe footsteps, paper cup handling sound effects, and ambient coffee shop room tone.
+- ⚡ **Resolution & Rendering:**
+  - Available in **720p HD** (100 credits) and **1080p Ultra HD** (200 credits).
+
+---
 
 ### Gangnam Style Dance AI
 
@@ -299,7 +321,7 @@ No predatory auto-renewing subscriptions:
 ## 🛠️ Quickstart Guide
 
 1. Head over to **[VidTrend Trends Catalog](https://vidtrend.app/trends)** or the **[Universal Studio Homepage](https://vidtrend.app)**.
-2. Pick a trending meme template (e.g., [Gangnam Style](https://vidtrend.app/trends/gangnam-style-dance-ai), [Tiny Desk](https://vidtrend.app/trends/tiny-desk-dance-ai), [Can I Ride](https://vidtrend.app/trends/can-i-ride-dance-ai), or [Bad Times](https://vidtrend.app/trends/tiktok-bad-times-imael-angel-ai-video)) or write a custom prompt.
+2. Pick a trending meme template (e.g., [Fancy Cafe](https://vidtrend.app/trends/first-time-fancy-cafe-ai), [Gangnam Style](https://vidtrend.app/trends/gangnam-style-dance-ai), [Tiny Desk](https://vidtrend.app/trends/tiny-desk-dance-ai), [Can I Ride](https://vidtrend.app/trends/can-i-ride-dance-ai), or [Bad Times](https://vidtrend.app/trends/tiktok-bad-times-imael-angel-ai-video)) or write a custom prompt.
 3. Upload your photo(s). *(Tip: If photos are blurry, click `Enhance with AI` to restore face details first!)*
 4. Select resolution (**720p HD** or **1080p Ultra HD**) and click **Generate**.
 5. Download your watermark-free video and post with the trending sound!
