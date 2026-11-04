@@ -21,6 +21,7 @@ Powered by [VidTrend](https://vidtrend.app) — the 1-click viral short-form AI 
 - [✨ Core Capabilities & Platform Architecture](#-core-capabilities--platform-architecture)
 - [🚀 Featured Templates & Live Demos](#-featured-templates--live-demos)
 - [📚 In-Depth Tutorials & Deep Dives](#-in-depth-tutorials--deep-dives)
+  - [Pick It Up Dance AI](#pick-it-up-dance-ai)
   - [First Time Fancy Cafe AI (POV Cafe Meme)](#first-time-fancy-cafe-ai-pov-cafe-meme)
   - [Gangnam Style Dance AI](#gangnam-style-dance-ai)
   - [Tiny Desk Concert Dance AI](#tiny-desk-concert-dance-ai)
@@ -126,6 +127,7 @@ Test and run these viral AI dance templates directly in your browser:
 
 | Template | Input | Duration | Audio / Sound | Description | Live Demo |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Pick It Up Dance AI** | 1 Photo | 14s | DJZACKKK - *Pick It Up* (Attach in TikTok) | Viral outdoor hip-hop groove and footwork trend popularized by @overlyyocean (132K+ likes). | [**Try Template ➔**](https://vidtrend.app/trends/pick-it-up-dance-ai) |
 | **First Time Fancy Cafe AI** | 2 Photos (Awkward Man & Woman) | 21s | Original Cafe Ambiance & Audio | Viral "POV: Your first time in a fancy cafe" comedy meme with awkward seating reveal and reaction cuts. | [**Try Template ➔**](https://vidtrend.app/trends/first-time-fancy-cafe-ai) |
 | **Gangnam Style Dance AI** | 3 Photos (Trio / 3 Members) | 10s | PSY - *Gangnam Style (TikTok Remix)* | 3-person synchronized horse-riding dance meme in a Hogwarts castle courtyard setting. | [**Try Template ➔**](https://vidtrend.app/trends/gangnam-style-dance-ai) |
 | **Tiny Desk Dance AI** | 5 Photos (Full Band) | 15s | Charlie Wilson - *Outstanding* | Multi-person ensemble parody with dynamic 4-angle cuts (Lead, Singer, Sax, Backing Vocalists). | [**Try Template ➔**](https://vidtrend.app/trends/tiny-desk-dance-ai) |
@@ -144,6 +146,32 @@ Test and run these viral AI dance templates directly in your browser:
 ## 📚 In-Depth Tutorials & Deep Dives
 
 Curated long-form guides, engineering breakdowns, case studies, and virality playbooks published across top platforms.
+
+### Pick It Up Dance AI
+
+*Single-character outdoor dance routine: turns 1 static photo into a viral 14s TikTok street groove with Seedance outdoor priors and silent MP4 export.*
+
+- 👟 [**Pick It Up Dance AI Live Generator & Specifications**](https://vidtrend.app/trends/pick-it-up-dance-ai)
+- 🛠️ **DEV.to** (`Builder Workflow & QA`):  
+  [**Pick It Up Dance AI for Builders: One Still, Seedance Outdoor Prior, Silent Export + Sound-Attach QA**](https://dev.to/vidtrend/pick-it-up-dance-ai-for-builders-one-still-seedance-outdoor-prior-silent-export-sound-attach-qa-5gde)  
+  *Technical breakdown of single-photo neural rigging with Seedance 2.0 Mini, outdoor scene background priors, and frame-accurate silent MP4 export QA.*
+- 📊 **Medium** (`Case Study & Retention Mechanics`):  
+  [**Why Outdoor Pick It Up Dance Clips Save Hard in 2026: 14-Second Hooks, Soft CTAs, and a 132K-Like Breakdown**](https://medium.com/@ice45571/why-outdoor-pick-it-up-dance-clips-save-hard-in-2026-14-second-hooks-soft-ctas-and-a-132k-like-bdd4602423de)  
+  *In-depth case study analyzing why the 14-second outdoor dance hook drives 18K+ bookmark saves, high completion rates, and viral follower acquisition.*
+- 🇯🇵 **note.com** (`日本語ガイド`):  
+  [**【作り方】写真1枚でPick It UpダンスAI｜14秒・屋外・無音MP4（アジア向けガイド）**](https://note.com/quick_loris6564/n/n02e0a22d932b)  
+  *写真1枚をアップロードするだけで、屋外で踊る14秒のPick It Upダンス動画を生成する方法。手足の歪みを防ぐ撮影のコツと、TikTokでの音源後付けによるアルゴリズム最適化を徹底解説。*
+- 💰 **Substack** (`ROI & Production Economics`):  
+  [**Pick It Up Dance AI Without Burning Budget: Production Economics, 480p vs. 720p, and Credit Strategy**](https://vidtrend.substack.com/p/pick-it-up-dance-ai-without-burning)  
+  *Creator credit budgeting playbook: prototyping looks rapidly at 480p (50 credits) vs. scaling final viral campaigns in 720p HD (100 credits).*
+- 📖 **WordPress** (`Comprehensive Guide`):  
+  [**Pick It Up Dance AI (VidTrend): The Complete Guide to the 1-Photo Outdoor Template**](https://vidtrend2.wordpress.com/2026/11/04/pick-it-up-dance-ai-vidtrend-the-complete-guide-to-the-1-photo-outdoor-template/)  
+  *The complete end-to-end user manual covering single-person photo lighting requirements, limb visibility guidelines, and watermark-free MP4 export.*
+- 🚀 **beehiiv** (`Growth Loops & Virality`):  
+  [**Growth Loops for Pick It Up Dance AI: Batch Three Outdoor Looks, A/B Two Windows, Feed the List**](https://ics-newsletter.beehiiv.com/p/growth-loops-for-pick-it-up-dance-ai-batch-three-outdoor-looks-a-b-two-windows-feed-the-list)  
+  *Audience acquisition strategy: batching 3 distinct outdoor character outfits, A/B testing morning vs. evening posting windows, and converting FYP reach into newsletter subscribers.*
+
+---
 
 ### First Time Fancy Cafe AI (POV Cafe Meme)
 
@@ -321,7 +349,7 @@ No predatory auto-renewing subscriptions:
 ## 🛠️ Quickstart Guide
 
 1. Head over to **[VidTrend Trends Catalog](https://vidtrend.app/trends)** or the **[Universal Studio Homepage](https://vidtrend.app)**.
-2. Pick a trending meme template (e.g., [Fancy Cafe](https://vidtrend.app/trends/first-time-fancy-cafe-ai), [Gangnam Style](https://vidtrend.app/trends/gangnam-style-dance-ai), [Tiny Desk](https://vidtrend.app/trends/tiny-desk-dance-ai), [Can I Ride](https://vidtrend.app/trends/can-i-ride-dance-ai), or [Bad Times](https://vidtrend.app/trends/tiktok-bad-times-imael-angel-ai-video)) or write a custom prompt.
+2. Pick a trending meme template (e.g., [Pick It Up](https://vidtrend.app/trends/pick-it-up-dance-ai), [Fancy Cafe](https://vidtrend.app/trends/first-time-fancy-cafe-ai), [Gangnam Style](https://vidtrend.app/trends/gangnam-style-dance-ai), [Tiny Desk](https://vidtrend.app/trends/tiny-desk-dance-ai), [Can I Ride](https://vidtrend.app/trends/can-i-ride-dance-ai), or [Bad Times](https://vidtrend.app/trends/tiktok-bad-times-imael-angel-ai-video)) or write a custom prompt.
 3. Upload your photo(s). *(Tip: If photos are blurry, click `Enhance with AI` to restore face details first!)*
 4. Select resolution (**720p HD** or **1080p Ultra HD**) and click **Generate**.
 5. Download your watermark-free video and post with the trending sound!
